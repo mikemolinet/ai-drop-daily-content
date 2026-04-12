@@ -6,7 +6,7 @@ and downloads — formatted as plain markdown for easy consumption by AI
 agents and humans.
 
 **Source site:** https://aidropdaily.com
-**Last synced (UTC):** 2026-04-12T00:26:54.347Z
+**Last sync timestamp:** see [`.last-synced`](.last-synced)
 **News editions:** 37
 
 ## License

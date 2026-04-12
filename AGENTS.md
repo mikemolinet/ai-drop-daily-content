@@ -5,9 +5,9 @@ This repository is the **public content mirror** for
 agents as well as humans. Everything here is plain markdown with YAML
 frontmatter.
 
-**Generated at:** 2026-04-12T00:26:54.362Z
 **License:** CC-BY-4.0 (see [LICENSE](LICENSE))
 **Schema version:** 1
+**Last sync timestamp:** see [`.last-synced`](.last-synced)
 
 ## Start here: `manifest.json`
 
@@ -18,7 +18,6 @@ crawling required.
 
 ```json
 {
-  "generated_at": "2026-04-12T00:26:54.362Z",
   "schema_version": 1,
   "summary": {
     "news": 37,
