@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-24"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 4
+day: 24
+day_of_week: "sat"
+lesson_type: "lab"
+title: "Final Lab: Build + Plan"
+subject: "The last lab. Let's make it count."
+source_path: "week-4/day-24-sat-lab.md"
+---
+
 # Day 24 (Final Lab) — Final Lab: Build + Plan
 ---
 

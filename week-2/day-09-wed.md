@@ -1,4 +1,16 @@
-# Subject: Four words that make AI smarter
+---
+id: "ai-101-day-09"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 2
+day: 9
+day_of_week: "wed"
+lesson_type: "lesson"
+title: "Advanced Prompting Techniques"
+subject: "Four words that make AI smarter."
+source_path: "week-2/day-09-wed.md"
+---
 
 There's a phrase that costs you nothing to type and consistently makes AI output better on complex tasks. Four words:
 

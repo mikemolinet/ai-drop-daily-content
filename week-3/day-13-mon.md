@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-13"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 3
+day: 13
+day_of_week: "mon"
+lesson_type: "lesson"
+title: "Writing: Emails, Decks, and Docs"
+subject: "Your writing doesn't have to take this long."
+source_path: "week-3/day-13-mon.md"
+---
+
 # Day 13 — Writing: Emails, Decks, and Docs (Without Sounding Like a Robot)
 ---
 

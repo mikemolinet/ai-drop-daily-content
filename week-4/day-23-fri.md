@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-23"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 4
+day: 23
+day_of_week: "fri"
+lesson_type: "lesson"
+title: "Your 90-Day Plan"
+subject: "What you now know that most professionals won't learn for years."
+source_path: "week-4/day-23-fri.md"
+---
+
 # Day 23 — Your 90-Day Plan
 ---
 

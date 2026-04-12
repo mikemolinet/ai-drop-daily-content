@@ -1,4 +1,15 @@
-# Subject: Teach Claude your exact process once. Use it forever.
+---
+id: "claude-chatbot-to-coworker-day-05"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 1
+day: 5
+lesson_type: "lesson"
+title: "Skills: Your Process, Automated"
+subject: "Teach Claude your exact process once. Use it forever."
+source_path: "course-3/week-1/day-05.md"
+---
 
 You know those tasks you do the same way every time?
 

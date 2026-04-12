@@ -1,4 +1,16 @@
-# Subject: Lab — Three workflows that'll make Cowork earn its subscription
+---
+id: "ai-201-day-06"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 1
+day: 6
+day_of_week: "sat"
+lesson_type: "lab"
+title: "Lab: Cowork Deep Dive"
+subject: "Three workflows that'll make Cowork earn its subscription."
+source_path: "course-2/week-1/day-06-sat-lab.md"
+---
 
 Yesterday you got Cowork set up and did your first task. Today we stop practicing and start building. You're going to create three real workflows — the kind of thing you'll actually reuse next week, and the week after that.
 

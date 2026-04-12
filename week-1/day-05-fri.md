@@ -1,4 +1,16 @@
-# Subject: This time is actually different. Here's why.
+---
+id: "ai-101-day-05"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 1
+day: 5
+day_of_week: "fri"
+lesson_type: "lesson"
+title: "The AI Landscape: Tools Worth Your Time"
+subject: "There are 10,000 AI tools. You need maybe 3."
+source_path: "week-1/day-05-fri.md"
+---
 
 You've heard "this changes everything" before. You should be skeptical. I would be.
 

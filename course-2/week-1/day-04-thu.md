@@ -1,4 +1,16 @@
-# Subject: Stop writing prompts from scratch. You're wasting the best ones.
+---
+id: "ai-201-day-04"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 1
+day: 4
+day_of_week: "thu"
+lesson_type: "lesson"
+title: "Prompt Libraries & Templates"
+subject: "Stop writing prompts from scratch. You're wasting the best ones."
+source_path: "course-2/week-1/day-04-thu.md"
+---
 
 Yesterday you built a custom assistant for your most important recurring task. Today we're solving the other 90% of your AI use.
 

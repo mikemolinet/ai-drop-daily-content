@@ -1,4 +1,16 @@
-# Subject: When NOT to use AI
+---
+id: "ai-101-day-11"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 2
+day: 11
+day_of_week: "fri"
+lesson_type: "lesson"
+title: "When NOT to Use AI"
+subject: "When NOT to use AI."
+source_path: "week-2/day-11-fri.md"
+---
 
 We've spent this whole week making you better at using AI. Today I'm going to tell you when to stop.
 

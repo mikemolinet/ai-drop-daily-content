@@ -1,4 +1,16 @@
-# Subject: You're already using AI. You just don't know it.
+---
+id: "ai-101-day-01"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 1
+day: 1
+day_of_week: "mon"
+lesson_type: "lesson"
+title: "What AI Actually Is (No Jargon, No Hype)"
+subject: "You're already using AI. You just don't know it yet."
+source_path: "week-1/day-01-mon.md"
+---
 
 You used AI before you finished your morning coffee today.
 

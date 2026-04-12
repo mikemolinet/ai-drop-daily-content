@@ -1,4 +1,15 @@
-# Subject: Your Claude operating system - putting it all together
+---
+id: "claude-chatbot-to-coworker-day-10"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 2
+day: 10
+lesson_type: "lesson"
+title: "Your Claude Operating System"
+subject: "Your Claude operating system - putting it all together"
+source_path: "course-3/week-2/day-10.md"
+---
 
 You made it to Day 10.
 

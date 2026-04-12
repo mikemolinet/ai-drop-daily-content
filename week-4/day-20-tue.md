@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-20"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 4
+day: 20
+day_of_week: "tue"
+lesson_type: "lesson"
+title: "Build Your Own AI Tool (No Code)"
+subject: "You can build an AI tool before lunch today."
+source_path: "week-4/day-20-tue.md"
+---
+
 # Day 20 — Build Your Own AI Tool (No Code, 15 Minutes)
 ---
 

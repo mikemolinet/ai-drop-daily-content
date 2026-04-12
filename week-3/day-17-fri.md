@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-17"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 3
+day: 17
+day_of_week: "fri"
+lesson_type: "lesson"
+title: "Building Your AI Toolkit"
+subject: "Stop collecting AI tools. You need three, maybe."
+source_path: "week-3/day-17-fri.md"
+---
+
 # Day 17 — Building Your AI Toolkit
 ---
 

@@ -1,4 +1,16 @@
-# Subject: You're not an AI beginner anymore. Here's what to do about it.
+---
+id: "ai-201-day-14"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 2
+day: 14
+day_of_week: "sun"
+lesson_type: "lesson"
+title: "What's Next"
+subject: "You're not an AI beginner anymore. Here's what to do about it."
+source_path: "course-2/week-2/day-14-sun.md"
+---
 
 Two weeks ago, you were someone who used AI. Today, you're someone who runs on AI.
 

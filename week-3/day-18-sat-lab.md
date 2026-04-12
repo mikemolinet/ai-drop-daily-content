@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-18"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 3
+day: 18
+day_of_week: "sat"
+lesson_type: "lab"
+title: "Lab: Your AI Workflow Sprint"
+subject: "Today you build the system you'll use every week."
+source_path: "week-3/day-18-sat-lab.md"
+---
+
 # Day 18 (Lab) — Your AI Workflow Sprint
 ---
 

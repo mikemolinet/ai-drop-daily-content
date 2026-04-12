@@ -1,4 +1,15 @@
-# Subject: The Claude feature that makes everything else look like a toy
+---
+id: "claude-chatbot-to-coworker-day-08"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 2
+day: 8
+lesson_type: "lesson"
+title: "Cowork: The Power Feature"
+subject: "The Claude feature that makes everything else look like a toy"
+source_path: "course-3/week-2/day-08.md"
+---
 
 If you've been following along, you've been using Claude in the browser at claude.ai. Chat, projects, artifacts, connectors, research. All good.
 

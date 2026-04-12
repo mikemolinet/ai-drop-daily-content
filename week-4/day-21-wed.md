@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-21"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 4
+day: 21
+day_of_week: "wed"
+lesson_type: "lesson"
+title: "When AI Is Wrong: Hallucinations, Bias, and Trust"
+subject: "AI just made up a court case. A lawyer cited it."
+source_path: "week-4/day-21-wed.md"
+---
+
 # Day 21 — When AI Is Wrong: Hallucinations, Bias, and Trust
 ---
 

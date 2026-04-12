@@ -1,4 +1,16 @@
-# Subject: How ChatGPT actually works (the 2-minute version)
+---
+id: "ai-101-day-02"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 1
+day: 2
+day_of_week: "tue"
+lesson_type: "lesson"
+title: "How AI Thinks (And Why It Matters for You)"
+subject: "AI doesn't think. That's why you need to understand how it works."
+source_path: "week-1/day-02-tue.md"
+---
 
 Here's the dirty secret of the most impressive technology in a generation: it predicts the next word.
 

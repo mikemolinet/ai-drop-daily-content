@@ -1,4 +1,16 @@
-# Subject: AI is a brilliant intern with no life experience
+---
+id: "ai-101-day-03"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 1
+day: 3
+day_of_week: "wed"
+lesson_type: "lesson"
+title: "Your First Real AI Conversation"
+subject: "Stop satisfying. Start prompting."
+source_path: "week-1/day-03-wed.md"
+---
 
 I want to give you a mental model that will save you months of trial and error.
 

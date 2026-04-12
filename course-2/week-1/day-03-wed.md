@@ -1,4 +1,16 @@
-# Subject: Your Course 1 custom GPT was a first draft. Now build a real one.
+---
+id: "ai-201-day-03"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 1
+day: 3
+day_of_week: "wed"
+lesson_type: "lesson"
+title: "Build a Purpose-Built AI Assistant"
+subject: "Your Course 1 custom GPT was a first draft. Now build a real one."
+source_path: "course-2/week-1/day-03-wed.md"
+---
 
 In the first course, you built a Custom GPT or Claude Project. And it probably works... okay. It handles the basics. It saves you some time. But if you're honest, you still do a lot of editing on the output.
 

@@ -1,4 +1,15 @@
-# Subject: Your first real Claude conversation (and why it feels different)
+---
+id: "claude-chatbot-to-coworker-day-01"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 1
+day: 1
+lesson_type: "lesson"
+title: "Your First Real Claude Conversation"
+subject: "Your first real Claude conversation (and why it feels different)"
+source_path: "course-3/week-1/day-01.md"
+---
 
 If you took our first course, you already know how AI works. You know about prompting. You've tried ChatGPT.
 

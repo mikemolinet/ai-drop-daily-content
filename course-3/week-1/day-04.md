@@ -1,4 +1,15 @@
-# Subject: Claude just built me a budget tracker in 45 seconds
+---
+id: "claude-chatbot-to-coworker-day-04"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 1
+day: 4
+lesson_type: "lesson"
+title: "Artifacts: Claude Builds Things"
+subject: "Claude just built me a budget tracker in 45 seconds"
+source_path: "course-3/week-1/day-04.md"
+---
 
 I'm not exaggerating. I typed one sentence and Claude produced a fully working interactive budget tracker. With categories. A pie chart. Color coding. Input fields. A running total.
 

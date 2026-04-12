@@ -1,4 +1,16 @@
-# Subject: Stop summarizing one PDF. Start processing the whole folder.
+---
+id: "ai-201-day-10"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 2
+day: 10
+day_of_week: "wed"
+lesson_type: "lesson"
+title: "Documents & Data at Scale"
+subject: "Stop summarizing one PDF. Start processing the whole folder."
+source_path: "course-2/week-2/day-10-wed.md"
+---
 
 Most people's relationship with AI and documents looks like this: they have a long PDF, they upload it to ChatGPT or Claude, they ask "summarize this," they get a summary. Useful? Sure. Transformational? Not really. You just saved yourself 20 minutes of reading.
 

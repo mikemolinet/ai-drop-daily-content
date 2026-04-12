@@ -1,4 +1,16 @@
-# Subject: The AI players you actually need to know about
+---
+id: "ai-101-day-04"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 1
+day: 4
+day_of_week: "thu"
+lesson_type: "lesson"
+title: "What AI Can (and Can't) Do"
+subject: "AI has a blind spot the size of a truck. Here's what it is."
+source_path: "week-1/day-04-thu.md"
+---
 
 There are hundreds of AI companies right now. You need to care about maybe four of them.
 

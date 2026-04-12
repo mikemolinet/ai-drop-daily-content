@@ -1,4 +1,16 @@
-# Subject: AI will do exactly what you ask. That's the problem.
+---
+id: "ai-201-day-12"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 2
+day: 12
+day_of_week: "fri"
+lesson_type: "lesson"
+title: "The Human-AI Collaboration Model"
+subject: "AI will do exactly what you ask. That's the problem."
+source_path: "course-2/week-2/day-12-fri.md"
+---
 
 We've spent the last eleven days building. Custom assistants, prompt libraries, Cowork workflows, scheduled automations, connected tools. You've got a real AI system now.
 

@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-14"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 3
+day: 14
+day_of_week: "tue"
+lesson_type: "lesson"
+title: "Analysis: Making Sense of Data, Docs, and Research"
+subject: "You have an analyst on call. You're just not using them."
+source_path: "week-3/day-14-tue.md"
+---
+
 # Day 14 — Analysis: Making Sense of Data, Docs, and Research
 ---
 

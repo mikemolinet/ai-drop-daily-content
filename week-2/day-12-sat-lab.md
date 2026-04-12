@@ -1,4 +1,16 @@
-# Subject: Lab Day — The Prompting Challenge
+---
+id: "ai-101-day-12"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 2
+day: 12
+day_of_week: "sat"
+lesson_type: "lab"
+title: "Lab: The Prompting Challenge"
+subject: "Today you stop reading and start doing."
+source_path: "week-2/day-12-sat-lab.md"
+---
 
 This will take 15-20 minutes. Set a timer if that helps. This is the most important hands-on exercise of the course so far, because it takes everything you've learned so far this week and makes it real.
 

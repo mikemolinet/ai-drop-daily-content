@@ -1,4 +1,16 @@
-# Subject: The #1 reason your AI results are bad
+---
+id: "ai-101-day-10"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 2
+day: 10
+day_of_week: "thu"
+lesson_type: "lesson"
+title: "Prompt Debugging"
+subject: "The #1 reason your AI results are bad."
+source_path: "week-2/day-10-thu.md"
+---
 
 I'll cut right to it: most people get mediocre results from AI because they don't give it enough context.
 

@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-15"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 3
+day: 15
+day_of_week: "wed"
+lesson_type: "lesson"
+title: "Thinking Partner: Using AI for Decisions and Strategy"
+subject: "The most underrated use of AI has nothing to do with productivity."
+source_path: "week-3/day-15-wed.md"
+---
+
 # Day 15 — Thinking Partner: Using AI for Decisions and Strategy
 ---
 

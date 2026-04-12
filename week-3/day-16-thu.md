@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-16"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 3
+day: 16
+day_of_week: "thu"
+lesson_type: "lesson"
+title: "Meetings, Email, and Admin: Reclaiming Your Time"
+subject: "You're spending 11 hours a week on stuff AI could do."
+source_path: "week-3/day-16-thu.md"
+---
+
 # Day 16 — Meetings, Email, and Admin: Reclaiming Your Time
 ---
 

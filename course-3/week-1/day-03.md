@@ -1,4 +1,15 @@
-# Subject: Stop re-explaining yourself every conversation
+---
+id: "claude-chatbot-to-coworker-day-03"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 1
+day: 3
+lesson_type: "lesson"
+title: "Projects: Claude Remembers You"
+subject: "Stop re-explaining yourself every conversation"
+source_path: "course-3/week-1/day-03.md"
+---
 
 Here's the most common complaint I hear from people who use AI regularly:
 

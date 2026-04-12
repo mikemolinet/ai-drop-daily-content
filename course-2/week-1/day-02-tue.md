@@ -1,4 +1,16 @@
-# Subject: Your custom instructions are probably too vague. Here's how to fix them.
+---
+id: "ai-201-day-02"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 1
+day: 2
+day_of_week: "tue"
+lesson_type: "lesson"
+title: "Custom Instructions & Memory"
+subject: "Your custom instructions are probably too vague. Here's how to fix them."
+source_path: "course-2/week-1/day-02-tue.md"
+---
 
 In the first course, you set up custom instructions and maybe built a Custom GPT or Claude Project. If you're like most people, your custom instructions say something like "I'm a [role] at a [company]. I prefer concise responses."
 

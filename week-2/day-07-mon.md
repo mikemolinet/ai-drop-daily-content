@@ -1,4 +1,16 @@
-# Subject: The same AI gave me two completely different answers
+---
+id: "ai-101-day-07"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 2
+day: 7
+day_of_week: "mon"
+lesson_type: "lesson"
+title: "Why Your AI Results Are Inconsistent"
+subject: "The same AI gave me two completely different answers."
+source_path: "week-2/day-07-mon.md"
+---
 
 Last week I asked ChatGPT to help me write a client proposal. The result was generic, fluffy, and honestly worse than if I'd just written it myself.
 

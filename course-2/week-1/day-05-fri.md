@@ -1,4 +1,16 @@
-# Subject: Meet the AI that actually does your work. On your computer. In your files.
+---
+id: "ai-201-day-05"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 1
+day: 5
+day_of_week: "fri"
+lesson_type: "lesson"
+title: "Introduction to Claude Cowork"
+subject: "Meet the AI that actually does your work. On your computer. In your files."
+source_path: "course-2/week-1/day-05-fri.md"
+---
 
 Everything we've built this week — custom instructions, purpose-built assistants, prompt libraries — they all share one limitation. You're still the middleman. You ask AI a question, it gives you an answer, and then *you* do something with that answer. Copy it. Paste it. Format it. Save it.
 

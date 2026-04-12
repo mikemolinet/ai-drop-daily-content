@@ -1,4 +1,15 @@
-# Subject: I asked Claude to research my competitors. It came back with a 12-page report.
+---
+id: "claude-chatbot-to-coworker-day-07"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 2
+day: 7
+lesson_type: "lesson"
+title: "Research Mode: Hours in Minutes"
+subject: "I asked Claude to research my competitors. It came back with a detailed report."
+source_path: "course-3/week-2/day-07.md"
+---
 
 I've been putting off competitive research for weeks. It's one of those tasks that's important but never urgent. You know the kind - it sits on your to-do list getting more stale by the day.
 

@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-22"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 4
+day: 22
+day_of_week: "thu"
+lesson_type: "lesson"
+title: "How to Stay Current Without Drowning"
+subject: "Stop reading AI news. Do this instead."
+source_path: "week-4/day-22-thu.md"
+---
+
 # Day 22 — How to Stay Current Without Drowning
 ---
 

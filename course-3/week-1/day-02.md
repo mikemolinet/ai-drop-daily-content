@@ -1,4 +1,15 @@
-# Subject: Five fixes for the five most common Claude frustrations
+---
+id: "claude-chatbot-to-coworker-day-02"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 1
+day: 2
+lesson_type: "lesson"
+title: "Five Fixes for Five Frustrations"
+subject: "Five fixes for the five most common Claude frustrations"
+source_path: "course-3/week-1/day-02.md"
+---
 
 Yesterday you had your first real Claude conversation. Today we're going to fix the things that are probably already annoying you.
 

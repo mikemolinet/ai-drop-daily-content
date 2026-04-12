@@ -1,4 +1,16 @@
-# Subject: Lab — Build your complete AI-powered work week
+---
+id: "ai-201-day-13"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 2
+day: 13
+day_of_week: "sat"
+lesson_type: "lab"
+title: "Lab: Build Your AI-Powered Week"
+subject: "Build your complete AI-powered work week."
+source_path: "course-2/week-2/day-13-sat-lab.md"
+---
 
 This is the capstone. Everything from the last 13 days comes together right here.
 

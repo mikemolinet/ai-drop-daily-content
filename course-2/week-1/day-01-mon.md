@@ -1,4 +1,16 @@
-# Subject: You use AI. You don't have an AI system. There's a massive difference.
+---
+id: "ai-201-day-01"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 1
+day: 1
+day_of_week: "mon"
+lesson_type: "lesson"
+title: "The System Mindset"
+subject: "You use AI. You don't have an AI system. There's a massive difference."
+source_path: "course-2/week-1/day-01-mon.md"
+---
 
 You finished the first course. You can write solid prompts. You've tried a few tools. You built a custom GPT or Claude Project. You probably have a 90-day plan sitting in your notes.
 

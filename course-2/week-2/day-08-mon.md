@@ -1,4 +1,16 @@
-# Subject: AI that works while you sleep. Literally.
+---
+id: "ai-201-day-08"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 2
+day: 8
+day_of_week: "mon"
+lesson_type: "lesson"
+title: "Cowork Automation: Scheduled Tasks"
+subject: "AI that works while you sleep. Literally."
+source_path: "course-2/week-2/day-08-mon.md"
+---
 
 Everything you've built so far has one thing in common: you had to start it. You opened a tool, typed a prompt, reviewed the output. You were the engine.
 

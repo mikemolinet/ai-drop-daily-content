@@ -1,4 +1,15 @@
-# Subject: Claude in Slack, Excel, and Chrome - meet it where you work
+---
+id: "claude-chatbot-to-coworker-day-09"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 2
+day: 9
+lesson_type: "lesson"
+title: "Claude Everywhere"
+subject: "Claude in Slack, Excel, and Chrome - meet it where you work"
+source_path: "course-3/week-2/day-09.md"
+---
 
 Yesterday was the big one. Cowork is the power tool. Today is about something equally practical but less flashy: putting Claude exactly where you already spend your time.
 

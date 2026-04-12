@@ -1,4 +1,16 @@
-# Subject: The best AI tool is the one you don't have to think about using.
+---
+id: "ai-201-day-11"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 2
+day: 11
+day_of_week: "thu"
+lesson_type: "lesson"
+title: "AI + Your Existing Tools"
+subject: "The best AI tool is the one you don't have to think about using."
+source_path: "course-2/week-2/day-11-thu.md"
+---
 
 Here's a pattern I see all the time. Someone learns AI, gets excited, builds a few workflows... and then three weeks later they're back to doing things the old way. Not because AI didn't work. Because there was too much friction.
 

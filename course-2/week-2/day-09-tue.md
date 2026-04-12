@@ -1,4 +1,16 @@
-# Subject: One AI step is useful. Chaining five together is transformational.
+---
+id: "ai-201-day-09"
+type: "course-lesson"
+course: "ai-201"
+course_title: "AI 201: Build Your AI System"
+week: 2
+day: 9
+day_of_week: "tue"
+lesson_type: "lesson"
+title: "Multi-Step AI Workflows"
+subject: "One AI step is useful. Chaining five together is transformational."
+source_path: "course-2/week-2/day-09-tue.md"
+---
 
 So far you've been giving AI one task at a time. Summarize this. Draft that. Organize these files. Each one useful on its own.
 

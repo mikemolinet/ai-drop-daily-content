@@ -1,4 +1,15 @@
-# Subject: Claude just read my email and pulled the right file from my Drive
+---
+id: "claude-chatbot-to-coworker-day-06"
+type: "course-lesson"
+course: "claude-chatbot-to-coworker"
+course_title: "Claude: From Chatbot to Coworker"
+week: 2
+day: 6
+lesson_type: "lesson"
+title: "Connectors: Your Tools, Connected"
+subject: "Claude just read my email and pulled the right file from my Drive"
+source_path: "course-3/week-2/day-06.md"
+---
 
 Welcome to Week 2. If Week 1 was about what Claude can do inside a chat window, this week is about what happens when you let Claude out of the box.
 

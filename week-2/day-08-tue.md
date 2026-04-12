@@ -1,4 +1,16 @@
-# Subject: One sentence that makes AI 10x better
+---
+id: "ai-101-day-08"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 2
+day: 8
+day_of_week: "tue"
+lesson_type: "lesson"
+title: "The Anatomy of a Great Prompt"
+subject: "One sentence that makes AI 10x better."
+source_path: "week-2/day-08-tue.md"
+---
 
 Yesterday we talked about the Role + Context + Task + Format framework. Today I want to zoom in on the first piece, because it's the single highest-leverage thing you can do.
 

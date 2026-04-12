@@ -1,3 +1,17 @@
+---
+id: "ai-101-day-19"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 4
+day: 19
+day_of_week: "mon"
+lesson_type: "lesson"
+title: "AI Agents: The Next Big Shift"
+subject: "Your AI is about to stop waiting for instructions."
+source_path: "week-4/day-19-mon.md"
+---
+
 # Day 19 — AI Agents: The Next Big Shift
 ---
 

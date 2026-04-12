@@ -1,4 +1,16 @@
-# Subject: Lab — Your first real AI session
+---
+id: "ai-101-day-06"
+type: "course-lesson"
+course: "ai-101"
+course_title: "AI 101"
+week: 1
+day: 6
+day_of_week: "sat"
+lesson_type: "lab"
+title: "Lab: Hands-On AI Challenge"
+subject: "Today you stop reading and start doing."
+source_path: "week-1/day-06-sat-lab.md"
+---
 
 This will take 15-20 minutes. No theory today. You're going to use AI on a real work task and see what happens.
 
