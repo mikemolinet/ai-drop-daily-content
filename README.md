@@ -25,14 +25,11 @@ See [LICENSE](LICENSE) for the license notice.
 
 ```
 news/              Daily AI news articles (YYYY-MM-DD.md), exported from DB
-course-2/
-course-3/
+ai-101/
+ai-201/
+claude-course/
 downloads/
 guides/
-week-1/
-week-2/
-week-3/
-week-4/
 ```
 
 Every news file has YAML frontmatter with stable `id` and `date` fields

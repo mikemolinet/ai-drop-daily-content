@@ -426,7 +426,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-1/day-01-mon.md",
+      "path": "ai-101/week-1/day-01-mon.md",
       "id": "ai-101-day-01",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -439,7 +439,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-1/day-02-tue.md",
+      "path": "ai-101/week-1/day-02-tue.md",
       "id": "ai-101-day-02",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -452,7 +452,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-1/day-03-wed.md",
+      "path": "ai-101/week-1/day-03-wed.md",
       "id": "ai-101-day-03",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -465,7 +465,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-1/day-04-thu.md",
+      "path": "ai-101/week-1/day-04-thu.md",
       "id": "ai-101-day-04",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -478,7 +478,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-1/day-05-fri.md",
+      "path": "ai-101/week-1/day-05-fri.md",
       "id": "ai-101-day-05",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -491,7 +491,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-1/day-06-sat-lab.md",
+      "path": "ai-101/week-1/day-06-sat-lab.md",
       "id": "ai-101-day-06",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -504,7 +504,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-2/day-07-mon.md",
+      "path": "ai-101/week-2/day-07-mon.md",
       "id": "ai-101-day-07",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -517,7 +517,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-2/day-08-tue.md",
+      "path": "ai-101/week-2/day-08-tue.md",
       "id": "ai-101-day-08",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -530,7 +530,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-2/day-09-wed.md",
+      "path": "ai-101/week-2/day-09-wed.md",
       "id": "ai-101-day-09",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -543,7 +543,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-2/day-10-thu.md",
+      "path": "ai-101/week-2/day-10-thu.md",
       "id": "ai-101-day-10",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -556,7 +556,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-2/day-11-fri.md",
+      "path": "ai-101/week-2/day-11-fri.md",
       "id": "ai-101-day-11",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -569,7 +569,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-2/day-12-sat-lab.md",
+      "path": "ai-101/week-2/day-12-sat-lab.md",
       "id": "ai-101-day-12",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -582,7 +582,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-3/day-13-mon.md",
+      "path": "ai-101/week-3/day-13-mon.md",
       "id": "ai-101-day-13",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -595,7 +595,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-3/day-14-tue.md",
+      "path": "ai-101/week-3/day-14-tue.md",
       "id": "ai-101-day-14",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -608,7 +608,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-3/day-15-wed.md",
+      "path": "ai-101/week-3/day-15-wed.md",
       "id": "ai-101-day-15",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -621,7 +621,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-3/day-16-thu.md",
+      "path": "ai-101/week-3/day-16-thu.md",
       "id": "ai-101-day-16",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -634,7 +634,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-3/day-17-fri.md",
+      "path": "ai-101/week-3/day-17-fri.md",
       "id": "ai-101-day-17",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -647,7 +647,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-3/day-18-sat-lab.md",
+      "path": "ai-101/week-3/day-18-sat-lab.md",
       "id": "ai-101-day-18",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -660,7 +660,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-4/day-19-mon.md",
+      "path": "ai-101/week-4/day-19-mon.md",
       "id": "ai-101-day-19",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -673,7 +673,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-4/day-20-tue.md",
+      "path": "ai-101/week-4/day-20-tue.md",
       "id": "ai-101-day-20",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -686,7 +686,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-4/day-21-wed.md",
+      "path": "ai-101/week-4/day-21-wed.md",
       "id": "ai-101-day-21",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -699,7 +699,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-4/day-22-thu.md",
+      "path": "ai-101/week-4/day-22-thu.md",
       "id": "ai-101-day-22",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -712,7 +712,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-4/day-23-fri.md",
+      "path": "ai-101/week-4/day-23-fri.md",
       "id": "ai-101-day-23",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -725,7 +725,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "week-4/day-24-sat-lab.md",
+      "path": "ai-101/week-4/day-24-sat-lab.md",
       "id": "ai-101-day-24",
       "course": "ai-101",
       "course_title": "AI 101",
@@ -738,7 +738,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-1/day-01-mon.md",
+      "path": "ai-201/week-1/day-01-mon.md",
       "id": "ai-201-day-01",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -751,7 +751,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-1/day-02-tue.md",
+      "path": "ai-201/week-1/day-02-tue.md",
       "id": "ai-201-day-02",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -764,7 +764,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-1/day-03-wed.md",
+      "path": "ai-201/week-1/day-03-wed.md",
       "id": "ai-201-day-03",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -777,7 +777,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-1/day-04-thu.md",
+      "path": "ai-201/week-1/day-04-thu.md",
       "id": "ai-201-day-04",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -790,7 +790,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-1/day-05-fri.md",
+      "path": "ai-201/week-1/day-05-fri.md",
       "id": "ai-201-day-05",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -803,7 +803,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-1/day-06-sat-lab.md",
+      "path": "ai-201/week-1/day-06-sat-lab.md",
       "id": "ai-201-day-06",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -816,7 +816,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-2/day-08-mon.md",
+      "path": "ai-201/week-2/day-08-mon.md",
       "id": "ai-201-day-08",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -829,7 +829,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-2/day-09-tue.md",
+      "path": "ai-201/week-2/day-09-tue.md",
       "id": "ai-201-day-09",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -842,7 +842,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-2/day-10-wed.md",
+      "path": "ai-201/week-2/day-10-wed.md",
       "id": "ai-201-day-10",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -855,7 +855,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-2/day-11-thu.md",
+      "path": "ai-201/week-2/day-11-thu.md",
       "id": "ai-201-day-11",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -868,7 +868,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-2/day-12-fri.md",
+      "path": "ai-201/week-2/day-12-fri.md",
       "id": "ai-201-day-12",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -881,7 +881,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-2/day-13-sat-lab.md",
+      "path": "ai-201/week-2/day-13-sat-lab.md",
       "id": "ai-201-day-13",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -894,7 +894,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-2/week-2/day-14-sun.md",
+      "path": "ai-201/week-2/day-14-sun.md",
       "id": "ai-201-day-14",
       "course": "ai-201",
       "course_title": "AI 201: Build Your AI System",
@@ -907,7 +907,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-1/day-01.md",
+      "path": "claude-course/week-1/day-01.md",
       "id": "claude-chatbot-to-coworker-day-01",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
@@ -920,7 +920,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-1/day-02.md",
+      "path": "claude-course/week-1/day-02.md",
       "id": "claude-chatbot-to-coworker-day-02",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
@@ -933,7 +933,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-1/day-03.md",
+      "path": "claude-course/week-1/day-03.md",
       "id": "claude-chatbot-to-coworker-day-03",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
@@ -946,7 +946,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-1/day-04.md",
+      "path": "claude-course/week-1/day-04.md",
       "id": "claude-chatbot-to-coworker-day-04",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
@@ -959,7 +959,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-1/day-05.md",
+      "path": "claude-course/week-1/day-05.md",
       "id": "claude-chatbot-to-coworker-day-05",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
@@ -972,7 +972,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-2/day-06.md",
+      "path": "claude-course/week-2/day-06.md",
       "id": "claude-chatbot-to-coworker-day-06",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
@@ -985,7 +985,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-2/day-07.md",
+      "path": "claude-course/week-2/day-07.md",
       "id": "claude-chatbot-to-coworker-day-07",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
@@ -998,7 +998,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-2/day-08.md",
+      "path": "claude-course/week-2/day-08.md",
       "id": "claude-chatbot-to-coworker-day-08",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
@@ -1011,7 +1011,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-2/day-09.md",
+      "path": "claude-course/week-2/day-09.md",
       "id": "claude-chatbot-to-coworker-day-09",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
@@ -1024,7 +1024,7 @@
     },
     {
       "type": "course-lesson",
-      "path": "course-3/week-2/day-10.md",
+      "path": "claude-course/week-2/day-10.md",
       "id": "claude-chatbot-to-coworker-day-10",
       "course": "claude-chatbot-to-coworker",
       "course_title": "Claude: From Chatbot to Coworker",
