@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 38,
+    "news": 39,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -9,7 +9,7 @@
     },
     "guides": 4,
     "downloads": 2,
-    "total": 91
+    "total": 92
   },
   "files": [
     {
@@ -423,6 +423,17 @@
       "image_url": "https://aidropdaily.com/api/news/image/2026-04-13",
       "published_at": "2026-04-13T16:00:57.742Z",
       "source": "https://aidropdaily.com/api/news/editions/2026-04-13"
+    },
+    {
+      "type": "news",
+      "path": "news/2026-04-14.md",
+      "id": "2026-04-14",
+      "date": "2026-04-14",
+      "title": "Agents Are Moving Into the Home — and the Pitch Got Personal",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-04-14",
+      "image_url": "https://aidropdaily.com/api/news/image/2026-04-14",
+      "published_at": "2026-04-14T16:01:31.374Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-04-14"
     },
     {
       "type": "course-lesson",
