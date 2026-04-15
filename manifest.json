@@ -9,8 +9,9 @@
       "claude-cowork": 10
     },
     "guides": 5,
+    "articles": 1,
     "downloads": 2,
-    "total": 104
+    "total": 105
   },
   "files": [
     {
@@ -1227,6 +1228,14 @@
       "description": "Battle-tested prompts designed for Spark's real-time speed. Scaffolding, refactoring, debugging, testing, and architecture — ready to use.",
       "category": "AI Coding",
       "published_at": "2026-02-16"
+    },
+    {
+      "type": "article",
+      "path": "articles/what-is-an-ai-agent.md",
+      "title": "What Is an AI Agent?",
+      "description": "The clearest explanation of what AI agents are, how they actually work, and what makes them different from every AI tool you've used before.",
+      "category": "AI Agents",
+      "published_at": "2026-04-15"
     },
     {
       "type": "download",

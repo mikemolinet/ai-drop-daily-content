@@ -27,6 +27,7 @@ See [LICENSE](LICENSE) for the license notice.
 news/              Daily AI news articles (YYYY-MM-DD.md), exported from DB
 ai-101/
 ai-201/
+articles/
 claude-course/
 claude-cowork/
 downloads/

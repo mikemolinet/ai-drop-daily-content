@@ -23,8 +23,9 @@ crawling required.
     "news": 40,
     "courses": {"ai-101":24,"ai-201":13,"claude-chatbot-to-coworker":10,"claude-cowork":10},
     "guides": 5,
+    "articles": 1,
     "downloads": 2,
-    "total": 104
+    "total": 105
   },
   "files": [ /* one entry per file */ ]
 }
@@ -81,14 +82,28 @@ source_path: "week-1/day-01-mon.md"
 The body is the lesson content with the email subject-line header
 stripped — same view the site renders to students.
 
-### `guide` — Standalone articles and playbooks
-Located in `guides/*.md`. Each guide has its own frontmatter authored
+### `guide` — Standalone reference playbooks
+Located in `guides/*.md`. How-to material — actionable, structured,
+something you return to. Each guide has its own frontmatter authored
 by the writer:
 
 ```yaml
 title: "..."
 description: "..."
 category: "..."
+publishedAt: "YYYY-MM-DD"
+```
+
+### `article` — Editorial explainers and opinion pieces
+Located in `articles/*.md`. Read-once essays that shift how you think
+about something — distinct from guides, which are reference material.
+Same frontmatter convention as guides, plus an explicit `type` field:
+
+```yaml
+title: "..."
+description: "..."
+category: "..."
+type: "article"
 publishedAt: "YYYY-MM-DD"
 ```
 
