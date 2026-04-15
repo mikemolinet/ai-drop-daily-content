@@ -8,9 +8,9 @@
       "claude-chatbot-to-coworker": 10,
       "claude-cowork": 10
     },
-    "guides": 4,
+    "guides": 5,
     "downloads": 2,
-    "total": 102
+    "total": 103
   },
   "files": [
     {
@@ -1200,6 +1200,14 @@
       "description": "A Department-by-Department Guide with 30+ Prompts for Marketing, Sales, HR, Ops, Finance, Product, and Support",
       "category": "guides",
       "published_at": "2026-02-22"
+    },
+    {
+      "type": "guide",
+      "path": "guides/claude-cowork.md",
+      "title": "Claude Cowork: From Zero to Real Work in One Session",
+      "description": "Get Cowork running and actually producing useful work — morning email digests, weekly summaries, automated briefs — in one sitting. Every step includes copy-paste prompts you can run immediately.",
+      "category": "guides",
+      "published_at": "2026-04-14"
     },
     {
       "type": "guide",
