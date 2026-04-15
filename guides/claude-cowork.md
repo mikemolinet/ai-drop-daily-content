@@ -57,14 +57,14 @@ hard system constraint, not a suggestion.
 
 ![Claude Desktop sidebar showing the three mode icons](/course-assets/claude-cowork/sidebar-three-modes.png "Chat, Cowork, and Code icons in the Claude Desktop sidebar. Click the Cowork icon to get started.")
 
+![Cowork + button dropdown menu showing Add folder option](/course-assets/claude-cowork/plus-button-menu.png "The + button menu — click Add folder to give Cowork access to your Claude Workspace.")
+
 That folder is the only thing Cowork can touch — nothing else on
 your computer is visible to it.
 
 **Set up Global Instructions:**
 Go to **Settings → Cowork tab → scroll to Global Instructions →
 click Edit**. Paste this:
-
-![Cowork + button dropdown menu showing Add folder option](/course-assets/claude-cowork/plus-button-menu.png "The + button menu — click Add folder to give Cowork access to your Claude Workspace.")
 
 ```
 Before every task, read the files in my ABOUT ME folder.
