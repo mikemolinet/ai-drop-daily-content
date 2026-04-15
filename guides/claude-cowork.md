@@ -352,13 +352,13 @@ Bad:
 The bad version will fire on everything. The good version fires
 exactly when you want it and nothing else.
 
-**A complete ready-to-use Skill — copy and adapt:**
+**A complete ready-to-use Skill**
 
 If you want to skip the Skill Creator interview and build one
 manually, here's a complete working example for a weekly summary.
 First create a **Skills** folder inside your Claude Workspace.
 Then ask Cowork to create a file called `weekly-summary.md`
-inside it with this content:
+inside it, with this content:
 
 ```
 ---
