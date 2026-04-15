@@ -5,11 +5,12 @@
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
-      "claude-chatbot-to-coworker": 10
+      "claude-chatbot-to-coworker": 10,
+      "claude-cowork": 10
     },
     "guides": 4,
     "downloads": 2,
-    "total": 92
+    "total": 102
   },
   "files": [
     {
@@ -1045,6 +1046,136 @@
       "lesson_type": "lesson",
       "title": "Your Claude Operating System",
       "subject": "Your Claude operating system - putting it all together"
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-1/day-01.md",
+      "id": "claude-cowork-day-01",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 1,
+      "day": 1,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "What Cowork Actually Is (And Why It Feels Different)",
+      "subject": "Claude can now open apps, edit files, and finish work while you're not watching"
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-1/day-02.md",
+      "id": "claude-cowork-day-02",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 1,
+      "day": 2,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "Setup in 15 Minutes",
+      "subject": "Everything you need to run your first Cowork task today"
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-1/day-03.md",
+      "id": "claude-cowork-day-03",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 1,
+      "day": 3,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "Your First Real Task",
+      "subject": "Stop reading. Give Claude something to do."
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-1/day-04.md",
+      "id": "claude-cowork-day-04",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 1,
+      "day": 4,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "Build Your Workspace — Context Files",
+      "subject": "The setup that makes every future task 10x better"
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-1/day-05.md",
+      "id": "claude-cowork-day-05",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 1,
+      "day": 5,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "Connectors — Connect the Tools You Already Use",
+      "subject": "Claude just read my email and pulled the right file from Drive"
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-2/day-06.md",
+      "id": "claude-cowork-day-06",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 2,
+      "day": 6,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "Skills — Automate What You Do Every Day",
+      "subject": "Teach Claude your process once. Use it forever."
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-2/day-07.md",
+      "id": "claude-cowork-day-07",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 2,
+      "day": 7,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "Scheduled Tasks — Work That Happens Without You",
+      "subject": "Set it once. Come back to finished work."
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-2/day-08.md",
+      "id": "claude-cowork-day-08",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 2,
+      "day": 8,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "Dispatch — Your AI From Anywhere",
+      "subject": "Text your computer. Come back to finished work."
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-2/day-09.md",
+      "id": "claude-cowork-day-09",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 2,
+      "day": 9,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "Computer Use — When Claude Controls the Screen",
+      "subject": "When there's no connector, Claude figures out another way"
+    },
+    {
+      "type": "course-lesson",
+      "path": "claude-cowork/week-2/day-10.md",
+      "id": "claude-cowork-day-10",
+      "course": "claude-cowork",
+      "course_title": "Claude Cowork",
+      "week": 2,
+      "day": 10,
+      "day_of_week": null,
+      "lesson_type": "lesson",
+      "title": "Your Full System — Putting It All Together",
+      "subject": "You now have more AI working for you than most people will ever set up"
     },
     {
       "type": "guide",

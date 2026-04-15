@@ -28,6 +28,7 @@ news/              Daily AI news articles (YYYY-MM-DD.md), exported from DB
 ai-101/
 ai-201/
 claude-course/
+claude-cowork/
 downloads/
 guides/
 ```

@@ -21,10 +21,10 @@ crawling required.
   "schema_version": 1,
   "summary": {
     "news": 39,
-    "courses": {"ai-101":24,"ai-201":13,"claude-chatbot-to-coworker":10},
+    "courses": {"ai-101":24,"ai-201":13,"claude-chatbot-to-coworker":10,"claude-cowork":10},
     "guides": 4,
     "downloads": 2,
-    "total": 92
+    "total": 102
   },
   "files": [ /* one entry per file */ ]
 }
@@ -55,6 +55,7 @@ Three courses are available:
 - `ai-101` — 24 lessons
 - `ai-201` — 13 lessons
 - `claude-chatbot-to-coworker` — 10 lessons
+- `claude-cowork` — 10 lessons
 
 Lessons are located at:
 - `week-{N}/day-{NN}-{dow}.md` for AI 101
