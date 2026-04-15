@@ -126,7 +126,7 @@ panel with three tabs: **Skills**, **Connectors**, and **Plugins**.
 You can also reach it via the **Customize** item in the Cowork
 left sidebar.
 
-![Claude Cowork Directory panel with three tabs visible](/course-assets/claude-cowork/directory-panel.png "The Directory panel showing Skills, Connectors, and Plugins tabs.")
+![Claude Cowork Directory panel with three tabs visible](https://aidropdaily.com/course-assets/claude-cowork/directory-panel.png "The Directory panel showing Skills, Connectors, and Plugins tabs.")
 
 Browse by tab. When you find something relevant, read the
 description carefully before installing. Check:

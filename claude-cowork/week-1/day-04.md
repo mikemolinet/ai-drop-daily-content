@@ -178,7 +178,7 @@ Find Global Instructions at: **Settings → Cowork tab (in the
 left sidebar) → scroll to Global Instructions at the bottom →
 click Edit.**
 
-![Claude Desktop Settings showing the Cowork tab with Global Instructions edit textarea open](/course-assets/claude-cowork/global-instructions-edit.png "Global Instructions in Settings — the textarea that applies to all Cowork sessions.")
+![Claude Desktop Settings showing the Cowork tab with Global Instructions edit textarea open](https://aidropdaily.com/course-assets/claude-cowork/global-instructions-edit.png "Global Instructions in Settings — the textarea that applies to all Cowork sessions.")
 
 Note: "Cowork" here means the Cowork tab inside Settings —
 not the Cowork mode in the main app sidebar.

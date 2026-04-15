@@ -52,7 +52,7 @@ Then:
 1. Open Cowork on your desktop
 2. Click **Dispatch** in the left sidebar
 
-![Cowork sidebar with Dispatch item visible](/course-assets/claude-cowork/dispatch-sidebar.png "Dispatch in the Cowork left sidebar.")
+![Cowork sidebar with Dispatch item visible](https://aidropdaily.com/course-assets/claude-cowork/dispatch-sidebar.png "Dispatch in the Cowork left sidebar.")
 
 3. Click **Get started**
 4. On the next screen, toggle on **Give Claude access to your

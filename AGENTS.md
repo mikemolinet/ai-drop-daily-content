@@ -130,6 +130,11 @@ published. If `.last-synced` looks stale, the sync has likely failed.
 5. **Do not open pull requests against this repo.** Any edits will be
    overwritten on the next sync. Feature requests and bug reports should
    go to the source repo or the contact info on aidropdaily.com.
+6. **Image URLs in body markdown are absolute.** Every image in a course
+   lesson, guide, or article body is rewritten at sync time to an absolute
+   `https://aidropdaily.com/...` URL. No relative paths, no assumptions
+   about a local asset tree. You can fetch images directly without
+   resolving against the repo root.
 
 ## Last-sync signal
 

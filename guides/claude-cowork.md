@@ -55,9 +55,9 @@ hard system constraint, not a suggestion.
 4. Create a folder called **Claude Workspace** on your desktop
    and select it
 
-![Claude Desktop sidebar showing the three mode icons](/course-assets/claude-cowork/sidebar-three-modes.png "Chat, Cowork, and Code icons in the Claude Desktop sidebar. Click the Cowork icon to get started.")
+![Claude Desktop sidebar showing the three mode icons](https://aidropdaily.com/course-assets/claude-cowork/sidebar-three-modes.png "Chat, Cowork, and Code icons in the Claude Desktop sidebar. Click the Cowork icon to get started.")
 
-![Cowork + button dropdown menu showing Add folder option](/course-assets/claude-cowork/plus-button-menu.png "The + button menu — click Add folder to give Cowork access to your Claude Workspace.")
+![Cowork + button dropdown menu showing Add folder option](https://aidropdaily.com/course-assets/claude-cowork/plus-button-menu.png "The + button menu — click Add folder to give Cowork access to your Claude Workspace.")
 
 That folder is the only thing Cowork can touch — nothing else on
 your computer is visible to it.
@@ -80,7 +80,7 @@ These instructions reference your ABOUT ME folder, which you'll
 build in Step 2. Until then, Cowork will note it can't find the
 folder — that's expected, keep going.
 
-![Claude Desktop Settings showing the Global Instructions textarea open in the Cowork tab](/course-assets/claude-cowork/global-instructions-edit.png "Global Instructions in Settings → Cowork tab. Paste your instructions here and click Save.")
+![Claude Desktop Settings showing the Global Instructions textarea open in the Cowork tab](https://aidropdaily.com/course-assets/claude-cowork/global-instructions-edit.png "Global Instructions in Settings → Cowork tab. Paste your instructions here and click Save.")
 
 **Create your folder structure:**
 Inside Claude Workspace, create three folders:
@@ -119,7 +119,7 @@ Cowork reads your actual files, synthesizes across all of them,
 and produces a brief of what's on your plate — without you
 summarizing anything yourself.
 
-![Claude Cowork interface showing a proposed plan with approve option](/course-assets/claude-cowork/plan-then-approve.png "Cowork shows its plan and waits for your approval before acting. This happens before every consequential action.")
+![Claude Cowork interface showing a proposed plan with approve option](https://aidropdaily.com/course-assets/claude-cowork/plan-then-approve.png "Cowork shows its plan and waits for your approval before acting. This happens before every consequential action.")
 
 That's the baseline. Everything that follows makes this better:
 more accurate to your voice, connected to your email and calendar,
@@ -420,7 +420,7 @@ Type `/schedule` in the Cowork chat input. You'll see a tooltip:
 at an interval." Follow the prompts to set the task description
 and cadence.
 
-![Cowork chat input showing /schedule command with tooltip visible](/course-assets/claude-cowork/schedule-slash-command.png "Type /schedule in the Cowork chat input to create a scheduled task.")
+![Cowork chat input showing /schedule command with tooltip visible](https://aidropdaily.com/course-assets/claude-cowork/schedule-slash-command.png "Type /schedule in the Cowork chat input to create a scheduled task.")
 
 To view and manage existing scheduled tasks, click **Scheduled**
 in the Cowork left sidebar.
@@ -554,7 +554,7 @@ on tasks from your phone using this computer."
 Then:
 1. Click **Dispatch** in the Cowork left sidebar
 
-![Cowork sidebar with Dispatch item visible](/course-assets/claude-cowork/dispatch-sidebar.png "Dispatch in the Cowork left sidebar — click it to start the pairing process.")
+![Cowork sidebar with Dispatch item visible](https://aidropdaily.com/course-assets/claude-cowork/dispatch-sidebar.png "Dispatch in the Cowork left sidebar — click it to start the pairing process.")
 
 2. Click **Get started**
 3. Toggle on **Give Claude access to your files** and

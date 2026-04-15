@@ -150,13 +150,13 @@ works between your messages, not just during them. Not every
 agent has this at the same level, but it's what distinguishes
 the most capable agents from a smart chatbot.
 
-![Linear flow diagram showing five steps: Goal, Plan, Call tool, Observe, Reason. A tool result branches down and back. A dashed loop returns from Reason to either Plan or Call tool if the goal isn't met. Done exits upward from Reason.](/article-assets/what-is-an-ai-agent/diagram-agent-loop.svg "The agent loop — the sequence every agent runs, from receiving a goal to deciding whether the job is done.")
+![Linear flow diagram showing five steps: Goal, Plan, Call tool, Observe, Reason. A tool result branches down and back. A dashed loop returns from Reason to either Plan or Call tool if the goal isn't met. Done exits upward from Reason.](https://aidropdaily.com/article-assets/what-is-an-ai-agent/diagram-agent-loop.svg "The agent loop — the sequence every agent runs, from receiving a goal to deciding whether the job is done.")
 
 ---
 
 ## The autonomy spectrum
 
-![Three boxes showing the autonomy spectrum from left to right: human-triggered in teal, scheduled in amber, always-on in purple, with an arrow indicating increasing autonomy.](/article-assets/what-is-an-ai-agent/diagram-autonomy-spectrum.svg "Most agents today fall in the first two tiers. The third is increasingly real.")
+![Three boxes showing the autonomy spectrum from left to right: human-triggered in teal, scheduled in amber, always-on in purple, with an arrow indicating increasing autonomy.](https://aidropdaily.com/article-assets/what-is-an-ai-agent/diagram-autonomy-spectrum.svg "Most agents today fall in the first two tiers. The third is increasingly real.")
 
 Not all agents are equally autonomous. Most real-world agents
 in 2026 fall somewhere on this spectrum:

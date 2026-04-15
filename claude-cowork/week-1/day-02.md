@@ -52,7 +52,7 @@ make. Start contained.
    its label; the others show icons only.
 4. Click the **Cowork** icon
 
-![Claude Desktop sidebar showing Chat, Cowork, and Code icons](/course-assets/claude-cowork/sidebar-three-modes.png "The three mode icons in the Claude Desktop sidebar.")
+![Claude Desktop sidebar showing Chat, Cowork, and Code icons](https://aidropdaily.com/course-assets/claude-cowork/sidebar-three-modes.png "The three mode icons in the Claude Desktop sidebar.")
 
 
 That's it. You're in Cowork.
@@ -70,7 +70,7 @@ Click the **+** button next to the chat input and select
 file picker. Cowork will ask for permission to access it —
 click Allow.
 
-![Cowork + button dropdown menu with Add folder option visible](/course-assets/claude-cowork/plus-button-menu.png "The + button menu showing Add folder and other options.")
+![Cowork + button dropdown menu with Add folder option visible](https://aidropdaily.com/course-assets/claude-cowork/plus-button-menu.png "The + button menu showing Add folder and other options.")
 
 Alternatively, use the **Work in a project** dropdown below
 the chat input and select **Choose a folder** — this gets you
@@ -122,7 +122,7 @@ Watch what happens. Cowork will read your folder, describe what
 it found, and propose next steps — all before touching anything.
 That's the plan-then-approve flow in action.
 
-![Claude Cowork interface displaying a proposed plan with approve option](/course-assets/claude-cowork/plan-then-approve.png "Cowork showing its plan and waiting for your approval before acting.")
+![Claude Cowork interface displaying a proposed plan with approve option](https://aidropdaily.com/course-assets/claude-cowork/plan-then-approve.png "Cowork showing its plan and waiting for your approval before acting.")
 
 When you approve, it will execute. When it's done, you'll have
 your first real Cowork output.

@@ -91,7 +91,7 @@ Computer use is off by default. To enable it:
 4. Scroll to the **Computer use** section and toggle it on
    (it has a "Beta" badge)
 
-![Claude Desktop Settings showing Computer use Beta toggle in General desktop settings](/course-assets/claude-cowork/computer-use-toggle.png "The Computer use (Beta) toggle in Settings → Desktop app → General.")
+![Claude Desktop Settings showing Computer use Beta toggle in General desktop settings](https://aidropdaily.com/course-assets/claude-cowork/computer-use-toggle.png "The Computer use (Beta) toggle in Settings → Desktop app → General.")
 
 The toggle description reads: "Let Claude take screenshots and
 control your keyboard and mouse in apps you allow."

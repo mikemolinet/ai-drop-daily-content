@@ -31,7 +31,7 @@ the scheduled task creator — you'll see a tooltip: "Create a
 scheduled task that can be run on demand or automatically at
 an interval."
 
-![Cowork chat input showing /schedule command with tooltip visible](/course-assets/claude-cowork/schedule-slash-command.png "Typing /schedule in Cowork triggers the scheduled task creator.")
+![Cowork chat input showing /schedule command with tooltip visible](https://aidropdaily.com/course-assets/claude-cowork/schedule-slash-command.png "Typing /schedule in Cowork triggers the scheduled task creator.")
 
 From there you'll define two things:
 
@@ -48,7 +48,7 @@ improving this.
 To view and manage your existing scheduled tasks, click
 **Scheduled** in the Cowork left sidebar.
 
-![Cowork left sidebar showing the Scheduled item](/course-assets/claude-cowork/scheduled-sidebar.png "The Scheduled item in the Cowork sidebar — where existing tasks are managed.")
+![Cowork left sidebar showing the Scheduled item](https://aidropdaily.com/course-assets/claude-cowork/scheduled-sidebar.png "The Scheduled item in the Cowork sidebar — where existing tasks are managed.")
 
 ---
 
