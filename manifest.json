@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 42,
+    "news": 43,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -11,7 +11,7 @@
     "guides": 5,
     "articles": 1,
     "downloads": 2,
-    "total": 107
+    "total": 108
   },
   "files": [
     {
@@ -469,6 +469,17 @@
       "image_url": "https://aidropdaily.com/api/news/image/2026-04-17",
       "published_at": "2026-04-17T15:06:17.874Z",
       "source": "https://aidropdaily.com/api/news/editions/2026-04-17"
+    },
+    {
+      "type": "news",
+      "path": "news/2026-04-20.md",
+      "id": "2026-04-20",
+      "date": "2026-04-20",
+      "title": "Cursor Eyes $50B Valuation While Vercel Breach Exposes AI Tool Risks",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-04-20",
+      "image_url": "https://aidropdaily.com/api/news/image/2026-04-20",
+      "published_at": "2026-04-20T13:30:22.720Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-04-20"
     },
     {
       "type": "course-lesson",
