@@ -174,11 +174,11 @@ Four modes in the toolbar: **Tweaks**, **Comment**, **Edit**, **Draw**.
 
 Tweaks are dynamically generated controls specific to your design. For a landing page you might get accent color swatches and density toggles. For a more complex design you'll get more. These aren't fixed settings — Claude built them for this project.
 
-For slide decks, Tweaks works differently. You ask Claude to build you specific controls:
+For slide decks, Tweaks works differently. Instead of generating controls, the panel is a direct input to the chat — type what you want adjusted and Claude makes the change.
 
-![Slide deck Tweaks panel showing a text input that says "Ask Claude to add sliders or options" with the example text "Make the font more sans serif".](https://aidropdaily.com/guide-assets/claude-design/claude-design-slides-tweaks.png "Slide deck Tweaks — you ask Claude to generate the specific controls you want.")
+![Slide deck Tweaks panel showing a text input that says "Ask Claude to add sliders or options" with the example text "Make the font more sans serif".](https://aidropdaily.com/guide-assets/claude-design/claude-design-slides-tweaks.png "Slide deck Tweaks — a direct input to the chat. Claude applies the change; it doesn't generate a control.")
 
-Type "Make the font more sans serif" and Claude adds a font style slider. This is a meta-layer — you're telling Claude what adjustments you want to be able to make, and it builds the controls for you.
+Type "Make the font more sans serif" and hit Send. Your request goes to the sidebar chat and Claude applies the change directly to the slide. Despite the "add sliders or options" placeholder text, no control gets generated — you just get the change.
 
 ### Edit — pixel-level control
 
