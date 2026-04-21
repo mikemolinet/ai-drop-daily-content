@@ -137,7 +137,7 @@ nav, task list with status indicators, progress chart
 at top right. Dense but clean.
 ```
 
-Press Send. Generation typically takes 30-60 seconds.
+Press Send. Generation typically takes a couple of minutes.
 
 ---
 
