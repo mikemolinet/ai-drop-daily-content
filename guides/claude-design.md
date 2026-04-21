@@ -304,8 +304,8 @@ The gap between "first generation" and "ready to share" is smaller than with any
 
 ## Go deeper
 
-**The full Claude ecosystem:**
-[Claude Cowork: From Zero to Real Work in One Session →](/guides/claude-cowork)
+**Put Claude to work on your actual tasks:**
+[Take the Claude Cowork course →](/cowork)
 
 **What AI agents actually are:**
 [What Is an AI Agent? →](/articles/what-is-an-ai-agent)
