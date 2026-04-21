@@ -8,10 +8,10 @@
       "claude-chatbot-to-coworker": 10,
       "claude-cowork": 10
     },
-    "guides": 5,
+    "guides": 6,
     "articles": 1,
     "downloads": 2,
-    "total": 109
+    "total": 110
   },
   "files": [
     {
@@ -1264,6 +1264,14 @@
       "description": "Get Cowork running and actually producing useful work — morning email digests, weekly summaries, automated briefs — in one sitting. Every step includes copy-paste prompts you can run immediately.",
       "category": "guides",
       "published_at": "2026-04-14"
+    },
+    {
+      "type": "guide",
+      "path": "guides/claude-design.md",
+      "title": "Claude Design: Design for the Rest of Us",
+      "description": "Everything you need to know to start using Claude Design — prototypes, pitch decks, landing pages, images, and more. Including the token warning nobody else will tell you about.",
+      "category": "guides",
+      "published_at": "2026-04-21"
     },
     {
       "type": "guide",
