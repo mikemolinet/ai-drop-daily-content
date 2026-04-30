@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 50,
+    "news": 51,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -11,7 +11,7 @@
     "guides": 6,
     "articles": 1,
     "downloads": 2,
-    "total": 116
+    "total": 117
   },
   "files": [
     {
@@ -557,6 +557,17 @@
       "image_url": "https://aidropdaily.com/api/news/image/2026-04-29",
       "published_at": "2026-04-29T13:30:09.383Z",
       "source": "https://aidropdaily.com/api/news/editions/2026-04-29"
+    },
+    {
+      "type": "news",
+      "path": "news/2026-04-30.md",
+      "id": "2026-04-30",
+      "date": "2026-04-30",
+      "title": "OpenAI Ships GPT-5.5-Cyber to Critical Infrastructure Teams",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-04-30",
+      "image_url": "https://aidropdaily.com/api/news/image/2026-04-30",
+      "published_at": "2026-04-30T13:30:12.516Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-04-30"
     },
     {
       "type": "course-lesson",
