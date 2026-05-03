@@ -5,7 +5,7 @@ category: "AI Agents"
 type: "article"
 author: "Mike Molinet"
 authorLinkedin: "https://www.linkedin.com/in/mikemolinet/"
-publishedAt: "2026-04-16"
+publishedAt: "2026-04-30"
 ---
 
 # AI's Biggest Bottleneck Right Now: The Human Middleware
