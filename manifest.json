@@ -9,9 +9,9 @@
       "claude-cowork": 10
     },
     "guides": 6,
-    "articles": 1,
+    "articles": 2,
     "downloads": 2,
-    "total": 118
+    "total": 119
   },
   "files": [
     {
@@ -1368,6 +1368,14 @@
       "description": "Battle-tested prompts designed for Spark's real-time speed. Scaffolding, refactoring, debugging, testing, and architecture — ready to use.",
       "category": "AI Coding",
       "published_at": "2026-02-16"
+    },
+    {
+      "type": "article",
+      "path": "articles/human-middleware.md",
+      "title": "AI's Biggest Bottleneck Right Now: The Human Middleware",
+      "description": "Eight AI agents, all individually capable, none of them talking to each other. The bottleneck isn't intelligence — it's the human sitting in the middle, copying context between windows.",
+      "category": "AI Agents",
+      "published_at": "2026-04-16"
     },
     {
       "type": "article",
