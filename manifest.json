@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 65,
+    "news": 66,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -11,7 +11,7 @@
     "guides": 6,
     "articles": 3,
     "downloads": 2,
-    "total": 133
+    "total": 134
   },
   "files": [
     {
@@ -722,6 +722,17 @@
       "image_url": "https://aidropdaily.com/api/news/image/2026-05-20",
       "published_at": "2026-05-20T13:30:07.653Z",
       "source": "https://aidropdaily.com/api/news/editions/2026-05-20"
+    },
+    {
+      "type": "news",
+      "path": "news/2026-05-21.md",
+      "id": "2026-05-21",
+      "date": "2026-05-21",
+      "title": "OpenAI Model Solves Major Math Conjecture",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-05-21",
+      "image_url": "https://aidropdaily.com/api/news/image/2026-05-21",
+      "published_at": "2026-05-21T13:30:06.574Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-05-21"
     },
     {
       "type": "course-lesson",
