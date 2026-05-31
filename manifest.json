@@ -9,9 +9,9 @@
       "claude-cowork": 10
     },
     "guides": 6,
-    "articles": 3,
+    "articles": 4,
     "downloads": 2,
-    "total": 140
+    "total": 141
   },
   "files": [
     {
@@ -1588,6 +1588,14 @@
       "description": "Battle-tested prompts designed for Spark's real-time speed. Scaffolding, refactoring, debugging, testing, and architecture — ready to use.",
       "category": "AI Coding",
       "published_at": "2026-02-16"
+    },
+    {
+      "type": "article",
+      "path": "articles/building-the-agent-org.md",
+      "title": "Building the Agent Org",
+      "description": "AI has finally made it possible to build a true agent organization — and it's shaping up to look a lot like a human org, with the human moving up a layer rather than out of the loop.",
+      "category": "AI Agents",
+      "published_at": "2026-05-31"
     },
     {
       "type": "article",
