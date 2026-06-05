@@ -8,10 +8,10 @@
       "claude-chatbot-to-coworker": 10,
       "claude-cowork": 10
     },
-    "guides": 6,
+    "guides": 7,
     "articles": 5,
     "downloads": 2,
-    "total": 146
+    "total": 147
   },
   "files": [
     {
@@ -1632,6 +1632,14 @@
       "description": "Battle-tested prompts designed for Spark's real-time speed. Scaffolding, refactoring, debugging, testing, and architecture — ready to use.",
       "category": "AI Coding",
       "published_at": "2026-02-16"
+    },
+    {
+      "type": "guide",
+      "path": "guides/working-with-multiple-ai-tools.md",
+      "title": "How to Work With Multiple AI Tools Without Becoming the Bottleneck",
+      "description": "A repeatable system for juggling ChatGPT, Claude, a coding tool, and a notes app without spending your day copy-pasting context between them.",
+      "category": "guides",
+      "published_at": "2026-06-05"
     },
     {
       "type": "article",

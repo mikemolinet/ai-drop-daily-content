@@ -22,10 +22,10 @@ crawling required.
   "summary": {
     "news": 76,
     "courses": {"ai-101":24,"ai-201":13,"claude-chatbot-to-coworker":10,"claude-cowork":10},
-    "guides": 6,
+    "guides": 7,
     "articles": 5,
     "downloads": 2,
-    "total": 146
+    "total": 147
   },
   "files": [ /* one entry per file */ ]
 }
