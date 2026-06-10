@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 79,
+    "news": 80,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -9,9 +9,9 @@
       "claude-cowork": 10
     },
     "guides": 7,
-    "articles": 5,
+    "articles": 6,
     "downloads": 2,
-    "total": 150
+    "total": 152
   },
   "files": [
     {
@@ -878,6 +878,17 @@
       "source": "https://aidropdaily.com/api/news/editions/2026-06-09"
     },
     {
+      "type": "news",
+      "path": "news/2026-06-10.md",
+      "id": "2026-06-10",
+      "date": "2026-06-10",
+      "title": "Anthropic Ships Claude Fable 5, First Public Mythos-Class Model",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-06-10",
+      "image_url": "https://aidropdaily.com/api/news/image/2026-06-10",
+      "published_at": "2026-06-10T13:30:15.318Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-06-10"
+    },
+    {
       "type": "course-lesson",
       "path": "ai-101/week-1/day-01-mon.md",
       "id": "ai-101-day-01",
@@ -1705,6 +1716,14 @@
       "description": "The future of AI isn't one super-agent or multiple agents on one platform. It's multi-agent AND multi-platform - and the infrastructure for it is already being built by competitors who agreed to share the plumbing.",
       "category": "AI Agents",
       "published_at": "2026-05-04"
+    },
+    {
+      "type": "article",
+      "path": "articles/the-seam-nobody-built.md",
+      "title": "The Seam Nobody Built: Where Humans and AI Agents Hand Off Work",
+      "description": "Agents alone are solved and humans alone always worked. The unbuilt layer is the hand-off, where a person and an agent trade the same work back and forth.",
+      "category": "AI Agents",
+      "published_at": "2026-06-10"
     },
     {
       "type": "article",
