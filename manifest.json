@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 82,
+    "news": 83,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
       "claude-chatbot-to-coworker": 10,
       "claude-cowork": 10
     },
-    "guides": 7,
+    "guides": 8,
     "articles": 6,
     "downloads": 2,
-    "total": 154
+    "total": 156
   },
   "files": [
     {
@@ -911,6 +911,16 @@
       "source": "https://aidropdaily.com/api/news/editions/2026-06-12"
     },
     {
+      "type": "news",
+      "path": "news/2026-06-15.md",
+      "id": "2026-06-15",
+      "date": "2026-06-15",
+      "title": "OpenRouter Fusion API Combines Multiple Models, Beats Any Solo Performance",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-06-15",
+      "published_at": "2026-06-15T14:58:14.515Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-06-15"
+    },
+    {
       "type": "course-lesson",
       "path": "ai-101/week-1/day-01-mon.md",
       "id": "ai-101-day-01",
@@ -1698,6 +1708,14 @@
       "description": "Battle-tested prompts designed for Spark's real-time speed. Scaffolding, refactoring, debugging, testing, and architecture — ready to use.",
       "category": "AI Coding",
       "published_at": "2026-02-16"
+    },
+    {
+      "type": "guide",
+      "path": "guides/set-up-your-first-claude-code-agent.md",
+      "title": "Set Up Your First Claude Code Agent: A Daily Briefing in 30 Minutes (No Coding)",
+      "description": "A step-by-step, no-jargon guide to installing Claude Code and building an agent that writes you a daily briefing on your schedule and priorities. No coding needed.",
+      "category": "guides",
+      "published_at": "2026-06-15"
     },
     {
       "type": "guide",
