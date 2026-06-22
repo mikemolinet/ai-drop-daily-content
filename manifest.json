@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 87,
+    "news": 88,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -11,7 +11,7 @@
     "guides": 9,
     "articles": 7,
     "downloads": 2,
-    "total": 162
+    "total": 163
   },
   "files": [
     {
@@ -962,6 +962,16 @@
       "image_url": "https://aidropdaily.com/api/news/image/2026-06-19",
       "published_at": "2026-06-19T13:30:13.122Z",
       "source": "https://aidropdaily.com/api/news/editions/2026-06-19"
+    },
+    {
+      "type": "news",
+      "path": "news/2026-06-22.md",
+      "id": "2026-06-22",
+      "date": "2026-06-22",
+      "title": "Sakana AI's Fugu Matches Top Closed Models — Tokyo Strikes Back",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-06-22",
+      "published_at": "2026-06-22T13:30:12.984Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-06-22"
     },
     {
       "type": "course-lesson",
