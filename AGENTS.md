@@ -23,9 +23,9 @@ crawling required.
     "news": 91,
     "courses": {"ai-101":24,"ai-201":13,"claude-chatbot-to-coworker":10,"claude-cowork":10},
     "guides": 9,
-    "articles": 7,
+    "articles": 8,
     "downloads": 2,
-    "total": 166
+    "total": 167
   },
   "files": [ /* one entry per file */ ]
 }

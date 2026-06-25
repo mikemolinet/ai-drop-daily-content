@@ -9,9 +9,9 @@
       "claude-cowork": 10
     },
     "guides": 9,
-    "articles": 7,
+    "articles": 8,
     "downloads": 2,
-    "total": 166
+    "total": 167
   },
   "files": [
     {
@@ -1872,6 +1872,14 @@
       "description": "The clearest explanation of what AI agents are, how they actually work, and what makes them different from every AI tool you've used before.",
       "category": "AI Agents",
       "published_at": "2026-04-15"
+    },
+    {
+      "type": "article",
+      "path": "articles/youre-not-behind.md",
+      "title": "You're Not Behind on AI. Almost Nobody Is.",
+      "description": "AI FOMO says everyone is racing ahead of you. A hundred real conversations say otherwise: almost no one has figured this out yet, and that is the opportunity.",
+      "category": "AI Agents",
+      "published_at": "2026-06-25"
     },
     {
       "type": "download",
