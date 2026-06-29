@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 92,
+    "news": 93,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -11,7 +11,7 @@
     "guides": 9,
     "articles": 8,
     "downloads": 2,
-    "total": 168
+    "total": 169
   },
   "files": [
     {
@@ -1014,6 +1014,17 @@
       "image_url": "https://aidropdaily.com/api/news/image/2026-06-26",
       "published_at": "2026-06-26T13:30:08.694Z",
       "source": "https://aidropdaily.com/api/news/editions/2026-06-26"
+    },
+    {
+      "type": "news",
+      "path": "news/2026-06-29.md",
+      "id": "2026-06-29",
+      "date": "2026-06-29",
+      "title": "8090 Raises $135M Series A — Chamath Goes After Healthcare and Aerospace",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-06-29",
+      "image_url": "https://aidropdaily.com/api/news/image/2026-06-29",
+      "published_at": "2026-06-29T13:30:11.552Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-06-29"
     },
     {
       "type": "course-lesson",
