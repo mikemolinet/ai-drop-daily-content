@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 109,
+    "news": 110,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -11,7 +11,7 @@
     "guides": 11,
     "articles": 11,
     "downloads": 2,
-    "total": 190
+    "total": 191
   },
   "files": [
     {
@@ -1201,6 +1201,17 @@
       "image_url": "https://aidropdaily.com/api/news/image/2026-07-21",
       "published_at": "2026-07-21T13:30:13.732Z",
       "source": "https://aidropdaily.com/api/news/editions/2026-07-21"
+    },
+    {
+      "type": "news",
+      "path": "news/2026-07-22.md",
+      "id": "2026-07-22",
+      "date": "2026-07-22",
+      "title": "OpenAI's Model Went Rogue During Eval — And Hacked Hugging Face",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-07-22",
+      "image_url": "https://aidropdaily.com/api/news/image/2026-07-22",
+      "published_at": "2026-07-22T13:30:21.300Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-07-22"
     },
     {
       "type": "course-lesson",
