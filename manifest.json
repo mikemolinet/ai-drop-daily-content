@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 114,
+    "news": 115,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -9,9 +9,9 @@
       "claude-cowork": 10
     },
     "guides": 11,
-    "articles": 11,
+    "articles": 12,
     "downloads": 2,
-    "total": 195
+    "total": 197
   },
   "files": [
     {
@@ -1258,6 +1258,17 @@
       "source": "https://aidropdaily.com/api/news/editions/2026-07-29"
     },
     {
+      "type": "news",
+      "path": "news/2026-07-30.md",
+      "id": "2026-07-30",
+      "date": "2026-07-30",
+      "title": "Frontier Lab Agent Hack Gets a Full Technical Autopsy",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-07-30",
+      "image_url": "https://aidropdaily.com/api/news/image/2026-07-30",
+      "published_at": "2026-07-30T13:30:14.891Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-07-30"
+    },
+    {
       "type": "course-lesson",
       "path": "ai-101/week-1/day-01-mon.md",
       "id": "ai-101-day-01",
@@ -2085,6 +2096,14 @@
       "description": "A repeatable system for juggling ChatGPT, Claude, a coding tool, and a notes app without spending your day copy-pasting context between them.",
       "category": "guides",
       "published_at": "2026-06-05"
+    },
+    {
+      "type": "article",
+      "path": "articles/agent-as-direct-report.md",
+      "title": "Your Agent Is a Direct Report",
+      "description": "The set-and-forget agent is a fantasy. The one you sync with often, unblock, and hand context to is already doing real work. Manage it like a smart new hire.",
+      "category": "AI Agents",
+      "published_at": "2026-07-30"
     },
     {
       "type": "article",
