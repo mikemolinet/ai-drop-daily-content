@@ -20,12 +20,12 @@ crawling required.
 {
   "schema_version": 1,
   "summary": {
-    "news": 130,
+    "news": 131,
     "courses": {"ai-101":24,"ai-201":13,"claude-chatbot-to-coworker":10,"claude-cowork":10},
     "guides": 11,
     "articles": 15,
     "downloads": 2,
-    "total": 215
+    "total": 216
   },
   "files": [ /* one entry per file */ ]
 }
