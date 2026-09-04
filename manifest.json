@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "summary": {
-    "news": 139,
+    "news": 140,
     "courses": {
       "ai-101": 24,
       "ai-201": 13,
@@ -11,7 +11,7 @@
     "guides": 11,
     "articles": 16,
     "downloads": 2,
-    "total": 225
+    "total": 226
   },
   "files": [
     {
@@ -1531,6 +1531,17 @@
       "image_url": "https://aidropdaily.com/api/news/image/2026-09-03",
       "published_at": "2026-09-03T13:31:39.662Z",
       "source": "https://aidropdaily.com/api/news/editions/2026-09-03"
+    },
+    {
+      "type": "news",
+      "path": "news/2026-09-04.md",
+      "id": "2026-09-04",
+      "date": "2026-09-04",
+      "title": "GPT-6 Astra Is Here — And It Might Actually Be the Real Thing",
+      "audio_url": "https://aidropdaily.com/api/news/audio/2026-09-04",
+      "image_url": "https://aidropdaily.com/api/news/image/2026-09-04",
+      "published_at": "2026-09-04T13:31:42.963Z",
+      "source": "https://aidropdaily.com/api/news/editions/2026-09-04"
     },
     {
       "type": "course-lesson",
